@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Professores</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="nome">Nome</string>
+    <string name="matricula">Matricula</string>
+    <string name="idade">Idade</string>
+    <string name="p_titular">Professor Titular</string>
+    <string name="p_horista">Professor Horista</string>
+    <string name="botao_dados">Ir para o cálculo</string>
+
+    <string name="voltar">voltar</string>
+    <string name="vlr_hora">Valor Hora</string>
+    <string name="vlr_salario">Salário</string>
+    <string name="tmp_hora">Horas Trabalhadas</string>
+    <string name="tmp_ano">Anos Trabalhados</string>
+    <string name="botao_resultado">Calcular Pagamento</string>
+    <string name="show_result">Valor a receber: R$</string>
+
+</resources>
